@@ -1,0 +1,173 @@
+13:38:54: Creating resource group General
+13:38:54: Registering ResourceManager for type Material
+13:38:54: Registering ResourceManager for type Mesh
+13:38:54: Registering ResourceManager for type Skeleton
+13:38:54: Loading library OgrePlatform_d.dll
+13:38:54: OverlayElementFactory for type Panel registered.
+13:38:54: OverlayElementFactory for type BorderPanel registered.
+13:38:54: OverlayElementFactory for type TextArea registered.
+13:38:54: Registering ResourceManager for type Font
+13:38:54: ArchiveFactory for archive type FileSystem registered.
+13:38:54: ArchiveFactory for archive type Zip registered.
+13:38:54: DevIL version: Developer's Image Library (DevIL) 1.6.7 May 27 2004
+13:38:54: DevIL image formats: bmp dib cut dcx dds gif ico cur jpg jpe jpeg lif mdl mng jng pcx pic pix png pbm pgm pnm ppm psd pdd psp pxr sgi bw rgb rgba tga vda icb vst tif tiff wal xpm raw 
+13:38:54: Registering ResourceManager for type HighLevelGpuProgram
+13:38:54: Loading library .\RenderSystem_Direct3D7
+13:38:54: Direct3D7 Rendering Subsystem created.
+13:38:54: ----- DirectDraw Detection Starts
+13:38:54: Detected DirectDraw driver Pilote d'affichage principal
+13:38:54: Detected DirectDraw driver ATI MOBILITY RADEON 7500 
+13:38:54: ----- DirectDraw Detection Ends
+13:38:54: Loading library .\RenderSystem_Direct3D9
+13:38:54: D3D9 : Direct3D9 Rendering SubSystem created.
+13:38:54: D3D9: Driver Detection Starts
+13:38:54: D3D9: Driver Detection Ends
+13:38:54: Loading library .\RenderSystem_GL
+13:38:54: OpenGL Rendering Subsystem created.
+13:38:54: Loading library .\Plugin_ParticleFX
+13:38:54: Particle Emitter Type 'Point' registered
+13:38:54: Particle Emitter Type 'Box' registered
+13:38:54: Particle Emitter Type 'Ellipsoid' registered
+13:38:54: Particle Emitter Type 'Cylinder' registered
+13:38:54: Particle Emitter Type 'Ring' registered
+13:38:54: Particle Emitter Type 'HollowEllipsoid' registered
+13:38:54: Particle Affector Type 'LinearForce' registered
+13:38:54: Particle Affector Type 'ColourFader' registered
+13:38:54: Particle Affector Type 'ColourFader2' registered
+13:38:54: Particle Affector Type 'ColourImage' registered
+13:38:54: Particle Affector Type 'ColourInterpolator' registered
+13:38:54: Particle Affector Type 'Scaler' registered
+13:38:54: Particle Affector Type 'Rotator' registered
+13:38:54: Loading library .\Plugin_BSPSceneManager
+13:38:54: Registering ResourceManager for type BspLevel
+13:38:54: Loading library .\Plugin_OctreeSceneManager
+13:38:54: TerrainSceneManager: Registered a new PageSource for type Heightmap
+13:38:54: Loading library .\Plugin_CgProgramManager
+13:38:54: *-*-* OGRE Initialising
+13:38:54: *-*-* Version 1.0.5 (Azathoth)
+13:38:54: Creating resource group Bootstrap
+13:38:54: Added resource location 'D:\OgreSDK\media/packs/OgreCore.zip' of type 'Zip' to resource group 'Bootstrap'
+13:38:54: Added resource location 'D:\OgreSDK\media' of type 'FileSystem' to resource group 'General'
+13:38:54: Added resource location 'D:\OgreSDK\media/fonts' of type 'FileSystem' to resource group 'General'
+13:38:54: Added resource location 'D:\OgreSDK\media/materials/programs' of type 'FileSystem' to resource group 'General'
+13:38:54: Added resource location 'D:\OgreSDK\media/materials/scripts' of type 'FileSystem' to resource group 'General'
+13:38:54: Added resource location 'D:\OgreSDK\media/materials/textures' of type 'FileSystem' to resource group 'General'
+13:38:54: Added resource location 'D:\OgreSDK\media/models' of type 'FileSystem' to resource group 'General'
+13:38:54: Added resource location 'D:\OgreSDK\media/overlays' of type 'FileSystem' to resource group 'General'
+13:38:54: Added resource location 'D:\OgreSDK\media/particle' of type 'FileSystem' to resource group 'General'
+13:38:54: Added resource location 'D:\OgreSDK\media/gui' of type 'FileSystem' to resource group 'General'
+13:38:54: Added resource location 'D:\OgreSDK\media/packs/cubemap.zip' of type 'Zip' to resource group 'General'
+13:38:54: Added resource location 'D:\OgreSDK\media/packs/cubemapsJS.zip' of type 'Zip' to resource group 'General'
+13:38:54: Added resource location 'D:\OgreSDK\media/packs/dragon.zip' of type 'Zip' to resource group 'General'
+13:38:54: Added resource location 'D:\OgreSDK\media/packs/fresneldemo.zip' of type 'Zip' to resource group 'General'
+13:38:54: Added resource location 'D:\OgreSDK\media/packs/ogretestmap.zip' of type 'Zip' to resource group 'General'
+13:38:54: Added resource location 'D:\OgreSDK\media/packs/skybox.zip' of type 'Zip' to resource group 'General'
+13:38:54: D3D9 : RenderSystem Option: Anti aliasing = None
+13:38:54: D3D9 : RenderSystem Option: Floating-point mode = Fastest
+13:38:54: D3D9 : RenderSystem Option: Full Screen = No
+13:38:54: D3D9 : RenderSystem Option: Rendering Device = ATI MOBILITY RADEON 7500
+13:38:54: D3D9 : RenderSystem Option: VSync = No
+13:38:54: D3D9 : RenderSystem Option: Video Mode = 800 x 600 @ 32-bit colour
+13:39:00: D3D9 : Shutting down cleanly.
+13:39:00: *** Starting Win32GL Subsystem ***
+13:39:00: GLRenderSystem::createRenderWindow "OGRE Render Window", 1024x768 windowed  miscParams: FSAA=0 colourDepth=32 vsync=false 
+13:39:00: Created Win32Window 'OGRE Render Window' : 1024x768, 32bpp
+13:39:00: GL_VERSION = 1.3.4650 WinXP Release
+13:39:00: GL_VENDOR = ATI Technologies Inc.
+13:39:00: GL_RENDERER = MOBILITY RADEON 7500 DDR x86/SSE2
+13:39:00: GL_EXTENSIONS = GL_ARB_multitexture GL_EXT_texture_env_add GL_EXT_compiled_vertex_array GL_S3_s3tc GL_ARB_occlusion_query GL_ARB_texture_border_clamp GL_ARB_texture_compression GL_ARB_texture_cube_map GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_mirrored_repeat GL_ARB_transpose_matrix GL_ARB_vertex_blend GL_ARB_vertex_buffer_object GL_ARB_window_pos GL_ATI_envmap_bumpmap GL_ATI_map_object_buffer GL_ATI_texture_env_combine3 GL_ATI_texture_mirror_once GL_ATI_vertex_array_object GL_ATI_vertex_streams GL_ATIX_texture_env_combine3 GL_ATIX_texture_env_route GL_EXT_abgr GL_EXT_bgra GL_EXT_clip_volume_hint GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_multi_draw_arrays GL_EXT_packed_pixels GL_EXT_point_parameters GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_specular_color GL_EXT_stencil_wrap GL_EXT_texgen_reflection GL_EXT_texture3D GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_object GL_EXT_texture_rectangle GL_EXT_vertex_array GL_HP_occlusion_test GL_NV_texgen_reflection GL_NV_blend_square GL_NV_occlusion_query GL_SGI_color_matrix GL_SGIS_texture_edge_clamp GL_SGIS_texture_border_clamp GL_SGIS_texture_lod GL_SGIS_generate_mipmap GL_SGIS_multitexture GL_SUN_multi_draw_arrays GL_WIN_swap_hint WGL_EXT_extensions_string WGL_EXT_swap_control 
+13:39:00: Supported WGL extensions: WGL_ARB_extensions_string WGL_ARB_make_current_read WGL_ARB_pbuffer WGL_ARB_pixel_format WGL_ARB_render_texture WGL_EXT_extensions_string WGL_EXT_swap_control 
+13:39:00: ***************************
+*** GL Renderer Started ***
+***************************
+13:39:00: Registering ResourceManager for type GpuProgram
+13:39:00: RenderSystem capabilities
+13:39:00: -------------------------
+13:39:00:  * Hardware generation of mipmaps: no
+13:39:00:  * Texture blending: yes
+13:39:00:  * Anisotropic texture filtering: yes
+13:39:00:  * Dot product texture operation: yes
+13:39:00:  * Cube mapping: yes
+13:39:00:  * Hardware stencil buffer: yes
+13:39:00:    - Stencil depth: 8
+13:39:00:    - Two sided stencil support: no
+13:39:00:    - Wrap stencil values: yes
+13:39:00:  * Hardware vertex / index buffers: yes
+13:39:00:  * Vertex programs: no
+13:39:00:  * Fragment programs: no
+13:39:00:  * Texture Compression: yes
+13:39:00:    - DXT: yes
+13:39:00:    - VTC: no
+13:39:00:  * Scissor Rectangle: yes
+13:39:00:  * Hardware Occlusion Query: yes
+13:39:00:  * User clip planes: yes
+13:39:00:  * VET_UBYTE4 vertex element type: yes
+13:39:00:  * Infinite far plane projection: yes
+13:39:00:  * Hardware render-to-texture: yes
+13:39:00:  * Floating point textures: no
+13:39:00:  * Non-power-of-two textures: no
+13:39:00:  * Volume textures: yes
+13:39:00: Registering ResourceManager for type Texture
+13:39:00: ResourceBackgroundQueue - threading disabled
+13:39:00: Particle Renderer Type 'billboard' registered
+13:39:00: Creating viewport on target 'OGRE Render Window', rendering from camera 'PlayerCam', relative dimensions L: 0.00 T: 0.00 W: 1.00 H: 1.00 ZOrder: 0
+13:39:00: Viewport for camera 'PlayerCam', actual dimensions L: 0 T: 0 W: 1016 H: 741
+13:39:00: Parsing scripts for resource group Bootstrap
+13:39:00: Parsing script OgreCore.material
+13:39:00: Parsing script OgreProfiler.material
+13:39:00: Parsing script Ogre.fontdef
+13:39:00: Parsing script OgreDebugPanel.overlay
+13:39:00: Texture: New_Ogre_Border_Center.png: Loading 1 faces(PF_A8B8G8R8,256x128x1) with 5 generated mipmaps from Image. Internal format is PF_A8R8G8B8,256x128x1.
+13:39:01: Texture: New_Ogre_Border.png: Loading 1 faces(PF_A8B8G8R8,256x256x1) with 5 generated mipmaps from Image. Internal format is PF_A8R8G8B8,256x256x1.
+13:39:01: Texture: New_Ogre_Border_Break.png: Loading 1 faces(PF_A8B8G8R8,32x32x1) with 5 generated mipmaps from Image. Internal format is PF_A8R8G8B8,32x32x1.
+13:39:01: Font TrebuchetMSBoldusing texture size 512x512
+13:39:01: Info: Freetype returned null for character 160 in font TrebuchetMSBold
+13:39:01: Texture: TrebuchetMSBoldTexture: Loading 1 faces(PF_BYTE_LA,512x512x1) with 0 generated mipmaps from Image. Internal format is PF_BYTE_LA,512x512x1.
+13:39:01: Texture: ogretext.png: Loading 1 faces(PF_A8B8G8R8,256x128x1) with 5 generated mipmaps from Image. Internal format is PF_A8R8G8B8,256x128x1.
+13:39:01: Parsing script OgreLoadingPanel.overlay
+13:39:01: Finished parsing scripts for resource group Bootstrap
+13:39:01: Parsing scripts for resource group General
+13:39:01: Parsing script Examples.program
+13:39:01: Parsing script Example-DynTex.material
+13:39:01: Parsing script Example-Water.material
+13:39:01: Parsing script Example.material
+13:39:01: Parsing script Examples-Advanced.material
+13:39:01: Parsing script OffsetMapping.material
+13:39:01: Parsing script Ogre.material
+13:39:01: Parsing script RZR-002.material
+13:39:01: Parsing script smoke.material
+13:39:01: Parsing script fresnelenviron.material
+13:39:01: Parsing script sample.fontdef
+13:39:01: Bad attribute line: glyph	 	0.152344	0.125	0.160156	0.1875 in font Ogre
+13:39:01: Parsing script Example-Water.particle
+13:39:01: Parsing script Example.particle
+13:39:01: Parsing script smoke.particle
+13:39:01: Parsing script DP3.overlay
+13:39:01: Parsing script Example-CubeMapping.overlay
+13:39:01: Parsing script Example-DynTex.overlay
+13:39:01: Parsing script Example-Water.overlay
+13:39:01: Parsing script Shadows.overlay
+13:39:01: Finished parsing scripts for resource group General
+13:39:13: *-*-* OGRE Shutdown
+13:39:13: Unregistering ResourceManager for type Font
+13:39:14: Unregistering ResourceManager for type Skeleton
+13:39:14: Unregistering ResourceManager for type Mesh
+13:39:14: Unregistering ResourceManager for type HighLevelGpuProgram
+13:39:14: Unloading library .\Plugin_CgProgramManager
+13:39:14: Unloading library .\Plugin_OctreeSceneManager
+13:39:14: Unregistering ResourceManager for type BspLevel
+13:39:14: Unloading library .\Plugin_BSPSceneManager
+13:39:14: Unloading library .\Plugin_ParticleFX
+13:39:14: Render Target 'OGRE Render Window' Average FPS: 0 Best FPS: 0 Worst FPS: 999
+13:39:14: Unregistering ResourceManager for type GpuProgram
+13:39:14: *** Stopping Win32GL Subsystem ***
+13:39:14: Unregistering ResourceManager for type Texture
+13:39:14: Unloading library .\RenderSystem_GL
+13:39:14: D3D9 : Shutting down cleanly.
+13:39:14: D3D9 : Direct3D9 Rendering SubSystem destroyed.
+13:39:14: Unloading library .\RenderSystem_Direct3D9
+13:39:14: *-*-* Direct3D Subsystem shutting down cleanly.
+13:39:14: Direct3D7 Rendering Subsystem destroyed.
+13:39:14: Unloading library .\RenderSystem_Direct3D7
+13:39:14: Unregistering ResourceManager for type Material
+13:39:14: Unloading library OgrePlatform_d.dll

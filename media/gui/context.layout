@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<GUILayout>
+	<Window Type="DefaultWindow" Name="contextmenu">
+		<Window Type="TaharezLook/Button" Name="button">
+			<Property Name="AbsoluteRect" Value="l:0.000000 t:4.000000 r:640.000000 b:29.000000" />
+			<Property Name="RelativeRect" Value="l:0.000000 t:0.008333 r:1.000000 b:0.060417" />
+			<Property Name="Text" Value="Move" />
+			</Window>
+		<Window Type="TaharezLook/Button" Name="button2">
+			<Property Name="AbsoluteRect" Value="l:0.000000 t:31.000000 r:640.000000 b:56.000000" />
+			<Property Name="RelativeRect" Value="l:0.000000 t:0.063666 r:1.000000 b:0.115749" />
+			<Property Name="Text" Value="Copy" />
+			</Window>
+		<Window Type="TaharezLook/Button" Name="button3">
+			<Property Name="AbsoluteRect" Value="l:0.000000 t:58.000000 r:640.000000 b:83.000000" />
+			<Property Name="RelativeRect" Value="l:0.000000 t:0.120750 r:1.000000 b:0.172833" />
+			<Property Name="Text" Value="Cut" />
+			</Window>
+		<Window Type="TaharezLook/Button" Name="button4">
+			<Property Name="AbsoluteRect" Value="l:0.000000 t:84.000000 r:640.000000 b:109.000000" />
+			<Property Name="RelativeRect" Value="l:0.000000 t:0.175000 r:1.000000 b:0.227083" />
+			<Property Name="Text" Value="Paste" />
+			</Window>
+		<Window Type="TaharezLook/Button" Name="button5">
+			<Property Name="AbsoluteRect" Value="l:0.000000 t:109.000000 r:640.000000 b:134.000000" />
+			<Property Name="RelativeRect" Value="l:0.000000 t:0.227083 r:1.000000 b:0.279166" />
+			<Property Name="Text" Value="Delete" />
+			</Window>
+		</Window>
+</GUILayout>

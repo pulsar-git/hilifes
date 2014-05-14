@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<GUILayout>
+	<Window Type="DefaultWindow" Name="RedPill">
+		<!--Window Type="TaharezLook/MultiLineEditbox" Name="RP_Message_Window">
+			<Property Name="AbsoluteRect" Value="l:182.000000 t:312.000000 r:524.000000 b:450.000000" />
+			<Property Name="Alpha" Value="0.500000" />
+			<Property Name="RelativeRect" Value="l:0.284063 t:0.650417 r:0.818437 b:0.937916" />
+			<Property Name="Text" Value="Salut les gars"/>
+			</Window-->
+		<Window Type="TaharezLook/Button" Name="Button">
+			<Property Name="AbsoluteRect" Value="l:8.000000 t:12.000000 r:67.000000 b:38.000000" />
+			<Property Name="RelativeRect" Value="l:0.013125 t:0.024167 r:0.105312 b:0.078334" />
+			<Property Name="Text" Value="Button1" />
+			</Window>
+		<Window Type="DefaultWindow" Name="contextWindow">
+			<Property Name="AbsoluteRect" Value="l:180.000000 t:132.000000 r:336.000000 b:233.000000" />
+			<Property Name="RelativeRect" Value="l:0.281250 t:0.275000 r:0.525000 b:0.485417" />
+			<Window Type="TaharezLook/Button" Name="contextButton">
+				<Property Name="AbsoluteRect" Value="l:6.000000 t:3.000000 r:149.000000 b:26.000000" />
+				<Property Name="RelativeRect" Value="l:0.041250 t:0.034583 r:0.956875 b:0.259583" />
+				<Property Name="Text" Value="Button1" />
+				</Window>
+			<Window Type="TaharezLook/Button" Name="contextButton2">
+				<Property Name="AbsoluteRect" Value="l:6.000000 t:27.000000 r:149.000000 b:49.000000" />
+				<Property Name="RelativeRect" Value="l:0.038125 t:0.263750 r:0.954792 b:0.488750" />
+				<Property Name="Text" Value="Button2" />
+				</Window>
+			<Window Type="TaharezLook/Button" Name="contextButton3">
+				<Property Name="AbsoluteRect" Value="l:6.000000 t:50.000000 r:149.000000 b:72.000000" />
+				<Property Name="RelativeRect" Value="l:0.038125 t:0.490833 r:0.954792 b:0.715833" />
+				<Property Name="Text" Value="Button3" />
+				</Window>
+			<Window Type="TaharezLook/Button" Name="contextButton4">
+				<Property Name="AbsoluteRect" Value="l:7.000000 t:74.000000 r:150.000000 b:96.000000" />
+				<Property Name="RelativeRect" Value="l:0.044375 t:0.728333 r:0.961042 b:0.953333" />
+				<Property Name="Text" Value="Button4" />
+				</Window>
+			</Window>
+		</Window>
+</GUILayout>

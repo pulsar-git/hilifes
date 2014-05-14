@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<entity name="Undef1" class="Base">
+	<attribute name="Position" value="200 100 50"/>
+	<attribute name="Mesh" value="ninja.mesh"/>
+	<attribute name="SoundFile" value="table.mp3"/>
+	<attribute name="Scale" value="1 1 1"/>
+</entity>

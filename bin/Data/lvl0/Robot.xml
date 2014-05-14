@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<entity name="Robot2" class="Base">
+	<attribute name="Position" value="100 100 50"/>
+	<attribute name="Mesh" value="robot.mesh"/>
+	<attribute name="SoundFile" value="table.mp3"/>
+	<attribute name="Scale" value="1 1 1"/>
+</entity>

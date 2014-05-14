@@ -1,0 +1,66 @@
+[3728] INFO  network_manager start() 
+[3728] DEBUG entity_factory Directory found [CVS] 
+[3728] DEBUG entity_factory File found [Light.xml] 
+[3728] INFO  entity_factory Loading ../data/lvl0/Light.xml 
+[3728] INFO  entity_factory Entity [MainLight] found class [Light] 
+[3728] DEBUG entity_factory create_entity -> Light 
+[3728] DEBUG entity Initializing 
+[3728] DEBUG entity_factory Attribute [Direction] 
+[3728] WARN  AttributeManager Inexistant attribute [Direction] 
+[3728] DEBUG entity_factory Attribute [Type] 
+[3728] WARN  AttributeManager Inexistant attribute [Type] 
+[3728] INFO  entity_factory Adding entity [MainLight] to entity_manager 
+[3728] DEBUG event_manager Connecting :MainLight 
+[3728] DEBUG entity_factory File found [Robot.xml] 
+[3728] INFO  entity_factory Loading ../data/lvl0/Robot.xml 
+[3728] INFO  entity_factory Entity [Robot2] found class [Base] 
+[3728] DEBUG entity_factory create_entity -> Table 
+[3728] DEBUG entity Initializing 
+[3728] DEBUG entity_factory Attribute [Position] 
+[3728] DEBUG entity_factory Attribute [Mesh] 
+[3728] WARN  AttributeManager Inexistant attribute [Mesh] 
+[3728] DEBUG entity_factory Attribute [SoundFile] 
+[3728] WARN  AttributeManager Inexistant attribute [SoundFile] 
+[3728] DEBUG entity_factory Attribute [Scale] 
+[3728] WARN  AttributeManager Inexistant attribute [Scale] 
+[3728] INFO  entity_factory Adding entity [Robot2] to entity_manager 
+[3728] DEBUG event_manager Connecting :Robot2 
+[3728] DEBUG entity_factory File found [Table.xml] 
+[3728] INFO  entity_factory Loading ../data/lvl0/Table.xml 
+[3728] INFO  entity_factory Entity [Table2] found class [Base] 
+[3728] DEBUG entity_factory create_entity -> Table 
+[3728] DEBUG entity Initializing 
+[3728] DEBUG entity_factory Attribute [Position] 
+[3728] DEBUG entity_factory Attribute [Mesh] 
+[3728] WARN  AttributeManager Inexistant attribute [Mesh] 
+[3728] DEBUG entity_factory Attribute [SoundFile] 
+[3728] WARN  AttributeManager Inexistant attribute [SoundFile] 
+[3728] DEBUG entity_factory Attribute [Scale] 
+[3728] WARN  AttributeManager Inexistant attribute [Scale] 
+[3728] INFO  entity_factory Adding entity [Table2] to entity_manager 
+[3728] DEBUG event_manager Connecting :Table2 
+[3728] DEBUG entity_factory File found [Undef.xml] 
+[3728] INFO  entity_factory Loading ../data/lvl0/Undef.xml 
+[3728] INFO  entity_factory Entity [Undef1] found class [Base] 
+[3728] DEBUG entity_factory create_entity -> Table 
+[3728] DEBUG entity Initializing 
+[3728] DEBUG entity_factory Attribute [Position] 
+[3728] DEBUG entity_factory Attribute [Mesh] 
+[3728] WARN  AttributeManager Inexistant attribute [Mesh] 
+[3728] DEBUG entity_factory Attribute [SoundFile] 
+[3728] WARN  AttributeManager Inexistant attribute [SoundFile] 
+[3728] DEBUG entity_factory Attribute [Scale] 
+[3728] WARN  AttributeManager Inexistant attribute [Scale] 
+[3728] INFO  entity_factory Adding entity [Undef1] to entity_manager 
+[3728] DEBUG event_manager Connecting :Undef1 
+[3728] INFO  network_manager shutdown() 
+[3728] INFO  sound_manager Going Down 
+[3728] INFO  policy_manager Shutting down 
+[3728] INFO  network_manager Shuting down 
+[3728] INFO  event_manager Shuting down 
+[3728] INFO  entity_manager Shutting down 
+[3728] DEBUG entity Destructing entity [MainLight] 
+[3728] DEBUG entity Destructing entity [Robot2] 
+[3728] DEBUG entity Destructing entity [Table2] 
+[3728] DEBUG entity Destructing entity [Undef1] 
+[3728] INFO  entity_factory Shuting down 

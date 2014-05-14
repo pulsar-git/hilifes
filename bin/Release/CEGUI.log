@@ -1,0 +1,25 @@
+10/12/2005 18:31:15 (InfL1)	+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+10/12/2005 18:31:15 (InfL1)	+                     Crazy Eddie's GUI System - Event log                    +
+10/12/2005 18:31:15 (InfL1)	+                          (http://www.cegui.org.uk/)                         +
+10/12/2005 18:31:15 (InfL1)	+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+
+10/12/2005 18:31:15 (InfL1)	CEGUI::Logger singleton created.
+10/12/2005 18:31:15 (InfL1)	---- Begining CEGUI System initialisation ----
+10/12/2005 18:31:15 (InfL1)	CEGUI::ImagesetManager singleton created
+10/12/2005 18:31:15 (InfL1)	CEGUI::FontManager singleton created.
+10/12/2005 18:31:15 (InfL1)	CEGUI::WindowFactoryManager singleton created
+10/12/2005 18:31:15 (InfL1)	CEGUI::WindowManager singleton created
+10/12/2005 18:31:15 (InfL1)	CEGUI::SchemeManager singleton created.
+10/12/2005 18:31:15 (InfL1)	CEGUI::MouseCursor singleton created.
+10/12/2005 18:31:15 (InfL1)	CEGUI::GlobalEventSet singleton created.
+10/12/2005 18:31:15 (InfL1)	CEGUI::WidgetLookManager singleton created.
+10/12/2005 18:31:15 (InfL1)	WindowFactory for 'DefaultWindow' windows added.
+10/12/2005 18:31:15 (InfL1)	WindowFactory for 'DragContainer' windows added.
+10/12/2005 18:31:15 (InfL1)	WindowFactory for 'ScrolledContainer' windows added.
+10/12/2005 18:31:15 (InfL1)	Window type alias named 'DefaultGUISheet' added for window type 'DefaultWindow'.
+10/12/2005 18:31:15 (InfL1)	CEGUI::System singleton created.
+10/12/2005 18:31:15 (InfL1)	---- CEGUI System initialisation completed ----
+10/12/2005 18:31:15 (InfL1)	---- Version 0.4.0 ----
+10/12/2005 18:31:15 (InfL1)	---- Renderer module is: CEGUI::OgreRenderer - Official Ogre based renderer module for CEGUI ----
+10/12/2005 18:31:15 (InfL1)	---- XML Parser module is: CEGUI::TinyXMLParser - Official tinyXML based parser module for CEGUI ----
+10/12/2005 18:31:15 (InfL1)	---- Scripting module is: None ----
